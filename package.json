@@ -1,0 +1,10 @@
+{
+  "name": "finmodel-lab",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "dev": "sh -c 'npm --prefix server run dev & npm --prefix client run dev'",
+    "build": "npm --prefix client run build",
+    "test": "npm --prefix server run test && npm --prefix client run test"
+  }
+}

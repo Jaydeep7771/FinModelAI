@@ -1,0 +1,5 @@
+{
+  "incomeStatement": [{ "revenue": 394328000000, "netIncome": 99803000000 }],
+  "balanceSheet": [{ "totalAssets": 352583000000, "totalLiabilities": 290437000000 }],
+  "cashFlow": [{ "freeCashFlow": 111443000000 }]
+}
